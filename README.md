@@ -21,5 +21,5 @@
 
 
 
-## **기술 및 도구**
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+## **기술 및 도구**(
+![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
