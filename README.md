@@ -19,7 +19,7 @@
 >
 > **사용 기술 및 도구:** 
 > 
-> *기반*   : ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SrpingBoot&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+> *기반*   : ![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Srping Boot&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 > 
 > *프론트* : ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-0063CB?style=flat-square&logo=Ajax&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-FF6A00?style=flat-square&logo=WebSocket&logoColor=white)
 >
