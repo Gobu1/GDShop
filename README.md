@@ -5,7 +5,7 @@
 
 - [개요](#-포트폴리오-개요)
 - [개발 목적](#-개발-목적)
-
+- [기능 구현](#-기능-구현)
 
 ## **포트폴리오 개요**
 
@@ -26,4 +26,13 @@
 > 백     : ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 
 
+## **개발 목적**
+
+
+
+## **기능 구현**
+
+### **1. 챗봇 구현**
+
+- 
 
