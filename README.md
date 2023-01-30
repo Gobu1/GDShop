@@ -34,7 +34,7 @@
 > 
 > 프론트 : ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-0063CB?style=flat-square&logo=Ajax&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-FF6A00?style=flat-square&logo=WebSocket&logoColor=white)
 >
-> 백     : ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+> 백     : ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) (*Java 11) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 >
 >추가 API : spring security oauth2, CLOVA chatbot (Naver)
 
