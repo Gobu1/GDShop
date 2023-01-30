@@ -73,9 +73,13 @@
 (관리자 페이지 역시 시큐리티 권한을 통해 접속가능)
 * 챗봇의 데이터 전달 방식
 (해당 프로젝트의 CLOVA 챗봇은 JSON형태의 데이터로 전송)
+
 [소스코드 JAVA](https://github.com/Gobu1/GDShop/blob/Gobu1-readme/src/main/java/com/shop/goodee/chat/MainController.java)
+
 [소스코드 JS](https://github.com/Gobu1/GDShop/blob/Gobu1-readme/src/main/resources/static/js/chat/app.js)
+
 [참고 API 문서](https://api.ncloud-docs.com/docs/ai-application-service-chatbot-chatbot#api-%EC%98%88%EC%A0%9C)
+
 <details markdown="1">
     <summary> 챗봇 데이터 처리과정 </summary>
 <div markdown="1">
